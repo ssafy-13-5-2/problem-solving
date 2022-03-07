@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Queue;
 
 public class B_11559 {  //puyo puyo
-	
+	 
 	static char[][] map = new char[12][6];
 	static Queue<Integer> queueX = new LinkedList<Integer>();
 	static Queue<Integer> queueY = new LinkedList<Integer>();
