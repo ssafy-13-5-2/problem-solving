@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
+ 
 public class B_2583 {
 
 	static int M, N, K;
